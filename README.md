@@ -1,6 +1,6 @@
 ![icn-submotiv-aplicaciones-moviles](/icons/academic-filled.svg)
 
-![alt text](https://raw.githubusercontent.com/quiqueciria/novum-icons-repository/refs/heads/master/resources/github-img-1.png?token=GHSAT0AAAAAADPX4YYQTCMYJ5RKL5KX7CC62JFLXRA)
+![alt text](/icons/academic-filled.svg)
 
 <br/><br/>![Mistica Icons](/resources/misticaicons-logo.png)<br/><br/>
 ### What is this?
