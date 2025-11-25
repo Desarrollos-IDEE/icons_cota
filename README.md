@@ -16,6 +16,6 @@ Visit [Mistica Storybook](https://mistica-web.now.sh/?path=/story/icons-mistica-
 #### Design
 Install Mistica Icons Library in Sketch from [Mistica Manager](https://telefonica.github.io/mistica/docs/design/start-using)
 # Icons 
-| Icon | name 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | SVG |
+| Icon | name 　　　　　　　　　　　　　　　　　　　　　　| SVG |
 | :-: | :- | :-: |
 | ![icn_impresora](/icons/iconos%20_%20icn_impresora.svg) | `impresora`  |  [.svg](/icons/iconos%20_%20icn_impresora.svg) |
