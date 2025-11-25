@@ -1,1 +1,5 @@
-<svg fill="none" viewBox="0 0 24 24"><g class="frame-container-wrapper"><g class="frame-container-blur"><g class="frame-container-shadows"><g class="fills"><rect width="24" height="24" class="frame-background" rx="0" ry="0"/></g><g class="frame-children"><rect width="24" height="24" fill="#000" class="fills" rx="4" ry="4"/><path fill="#fff" d="m5.2632 5 5.4126 7.6361L5 19.0001h1.21l5.0022-5.6084L15.1875 19H19l-5.664-7.9902L18.6968 5h-1.2092l-4.687 5.2543L9.0757 5H5.2632Z" class="fills"/></g></g></g></g></svg>
+﻿<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+<g fill="#000">
+<path fill="#fff" d="m5.2632 5 5.4126 7.6361L5 19.0001h1.21l5.0022-5.6084L15.1875 19H19l-5.664-7.9902L18.6968 5h-1.2092l-4.687 5.2543L9.0757 5H5.2632Z"/>
+</g>
+</svg>
