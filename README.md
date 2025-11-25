@@ -1,6 +1,6 @@
 ![icn-submotiv-aplicaciones-moviles](/icons/academic-filled.svg)
 
-![alt text](/icons/academic-filled.svg)
+![alt text](icons/academic-filled.svg)
 
 <br/><br/>![Mistica Icons](/resources/misticaicons-logo.png)<br/><br/>
 ### What is this?
