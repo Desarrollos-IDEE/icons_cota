@@ -1,5 +1,5 @@
 
-# Icons 
+# Iconss 
 | Icon | name 　　　　　　　　　　　　　　　　　　　　　　| SVG |
 | :-: | :- | :-: |
 | ![icn_actualizar.svg](/icons/icn_actualizar.svg) | `actualizar`  |  [.svg](/icons/icn_actualizar.svg) |
