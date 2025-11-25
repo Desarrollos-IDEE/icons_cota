@@ -18,5 +18,4 @@ Install Mistica Icons Library in Sketch from [Mistica Manager](https://telefonic
 # Icons 
 | Icon | name 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | SVG | PDF |
 | :-: | :- | :-: | :-: |
-| ![icn_impresora](/icons/iconos%20_%20icn_impresora.svg) | `impresora`  |  [.svg](/icons/iconos%20_%20icn_impresora.svg) | [.pdf](icons/3.Filled/academic-filled.pdf) |  
-| ![academic-light](icons/academic-light.svg) | `academic-light`  |  [.svg](icons/academic-light.svg) | [.pdf](icons/1.Light/academic-light.pdf) |  
+| ![icn_impresora](/icons/iconos%20_%20icn_impresora.svg) | `impresora`  |  [.svg](/icons/iconos%20_%20icn_impresora.svg) | [.pdf](icons/3.Filled/academic-filled.pdf) |
