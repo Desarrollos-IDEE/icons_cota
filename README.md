@@ -1,6 +1,6 @@
 
 # Iconss 
-| Icon | name 　　　　　　　　　　　　　　　　　　　　　　| SVG | Preview |
+| Icon | name 　　　　　　　　　　　　　　　　　　　　　　| SVG | White |
 | :-: | :- | :-: | :-: |
 | ![icn_actualizar.svg](/icons/icn_actualizar.svg) | `actualizar`  |  [.svg](/icons/icn_actualizar.svg) | ![icn_actualizar_white.svg](/icons/icn_actualizar_white.svg) | ![icn_actualizar_white.svg](/icons/icn_actualizar_white.svg#gh-dark-mode-only) |
 | ![icn_agujero.svg](/icons/icn_agujero.svg) | `agujero`  |  [.svg](/icons/icn_agujero.svg) | ![icn_agujero_white.svg](/icons/icn_agujero_white.svg#gh-dark-mode-only) |
