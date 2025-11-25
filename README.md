@@ -2,7 +2,7 @@
 # Icons 
 | Icon | name 　　　　　　　　　　　　　　　　　　　　　　| SVG |
 | :-: | :- | :-: |
-| ![icn_impresora](/icons/iconos%20_%20icn_impresora.svg) | `impresora`  |  [.svg](/icons/iconos%20_%20icn_impresora.svg) |
+| ![icn_impresora](/icons/icn_impresora.svg) | `impresora`  |  [.svg](/icons/icn_impresora.svg) |
 | ![icn_actualizar.svg](/icons/icn_actualizar.svg) | `actualizar`  |  [.svg](/icons/icn_actualizar.svg) |
 
          
