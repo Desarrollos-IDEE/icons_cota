@@ -1,3 +1,5 @@
+![icn-submotiv-aplicaciones-moviles](icons\academic-filled.svg)
+
 <br/><br/>![Mistica Icons](/resources/misticaicons-logo.png)<br/><br/>
 ### What is this?
 This is the repo that contains all icons that is working in [Mistica Design](https://github.com/Telefonica/mistica-design) now.
