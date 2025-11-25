@@ -1,4 +1,4 @@
-![icn-submotiv-aplicaciones-moviles](/icons/academic-filled.svg)
+![icn-submotiv-aplicaciones-moviles](/icons/iconos%20_%20icn_impresora.svg)
 
 ![alt text](/icons/github-img-1.png)
 
