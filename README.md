@@ -13,10 +13,10 @@ Todos los iconos están optimizados para GitHub con formato SVG estándar (24x24
 
 ### Versiones
 Hay 4 versiones de cada icono para que puedan ser usados en cada estado:
-- **Black**: ![#000000](https://via.placeholder.com/15/000000/000000?text=+) Negro #000000 - Icono principal
-- **White**: ![#ffffff](https://via.placeholder.com/15/ffffff/ffffff?text=+) Blanco #ffffff - Para fondos oscuros
-- **Disabled**: ![#ced4da](https://via.placeholder.com/15/ced4da/ced4da?text=+) Gris 40 #ced4da - Estados deshabilitados/inactivos
-- **Default**: ![#495057](https://via.placeholder.com/15/495057/495057?text=+) Gris 70 #495057 - Estado neutro
+- **Black**: ![#000000](https://img.shields.io/badge/-000000?style=flat&logoColor=white) Negro #000000 - Icono principal
+- **White**: ![#ffffff](https://img.shields.io/badge/-ffffff?style=flat&logoColor=black) Blanco #ffffff - Para fondos oscuros
+- **Disabled**: ![#ced4da](https://img.shields.io/badge/-ced4da?style=flat&logoColor=black) Gris 40 #ced4da - Estados deshabilitados/inactivos
+- **Default**: ![#495057](https://img.shields.io/badge/-495057?style=flat&logoColor=white) Gris 70 #495057 - Estado neutro
 
 El mejor camino para buscar en este repositorio es el motor de búsqueda de tu explorador (cmd / ctrl + f)
 
