@@ -15,11 +15,11 @@ Todos los iconos están optimizados en formato SVG estándar (24x24px, viewBox 0
 Hay 4 versiones de cada icono para que puedan ser usados en cada estado:
 - **Black**: ![#000000](https://img.shields.io/badge/-000000?style=flat&logoColor=white) Negro #000000 - Icono principal
 - **White**: ![#ffffff](https://img.shields.io/badge/-ffffff?style=flat&logoColor=black) Blanco #ffffff - Para fondos oscuros
-- **Disabled**: ![#ced4da](https://img.shields.io/badge/-ced4da?style=flat&logoColor=black) Gris 40 #ced4da - Estados deshabilitados/inactivos
-- **Default**: ![#495057](https://img.shields.io/badge/-495057?style=flat&logoColor=white) Gris 70 #495057 - Estado neutro
+- **Disabled**: ![#ced4da](https://img.shields.io/badge/-ced4da?style=flat&logoColor=black) Gris 40 #ced4da - Estados deshabilitados o inactivos
+- **Default**: ![#495057](https://img.shields.io/badge/-495057?style=flat&logoColor=white) Gris 70 #495057 - Estado disponible o neutro
 
 ### Buscar
-El mejor camino para buscar en este repositorio es el motor de búsqueda de tu explorador (cmd / ctrl + f)
+El mejor camino para buscar en este repositorio cualquier icono es el motor de búsqueda de tu explorador (cmd / ctrl + f)
 
 
 
