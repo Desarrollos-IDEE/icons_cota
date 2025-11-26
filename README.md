@@ -19,7 +19,7 @@ Hay 4 versiones de cada icono para que puedan ser usados en cada estado:
 - **Default**: ![#495057](https://img.shields.io/badge/-495057?style=flat&logoColor=white) Gris 70 #495057 - Estados disponibles o neutros
 
 ### Buscar
-El mejor camino para buscar en este repositorio cualquier icono es el motor de búsqueda de tu explorador (cmd / ctrl + f)
+El mejor camino para buscar en este repositorio es el motor de búsqueda de tu explorador (cmd / ctrl + f)
 
 
 
