@@ -2,13 +2,21 @@
 
 Este repositorio contiene todos los iconos que se usan en el sistema de diseño Cota.
 
+### Nomenclatura de archivos
+Todos los archivos siguen un patrón consistente:
+- **Icono principal**: `icn_nombre.svg` (ejemplo: `icn_actualizar.svg`)
+- **Versión blanca**: `icn_nombre_white.svg` (ejemplo: `icn_actualizar_white.svg`)
+- **Versión deshabilitada**: `icn_nombre_disabled.svg` (ejemplo: `icn_actualizar_disabled.svg`)
+- **Versión default**: `icn_nombre_default.svg` (ejemplo: `icn_actualizar_default.svg`)
+
+Todos los iconos están optimizados para GitHub con formato SVG estándar (24x24px, viewBox 0 0 24 24).
+
 ### Versiones
 Hay 4 versiones de cada icono para que puedan ser usados en cada estado:
-- Black: Negro #000000
-- White: Blanco #ffffff  
-- Disabled: Gris 40 #ced4da
-- Default: Gris 70 #495057
-
+- **Black**: Negro #000000 - Icono principal para fondos claros
+- **White**: Blanco #ffffff - Para fondos oscuros
+- **Disabled**: Gris 40 #ced4da - Estados deshabilitados/inactivos
+- **Default**: Gris 70 #495057 - Estado neutro/secundario
 
 El mejor camino para buscar en este repositorio es el motor de búsqueda de tu explorador (cmd / ctrl + f)
 
@@ -16,7 +24,8 @@ El mejor camino para buscar en este repositorio es el motor de búsqueda de tu e
 
 # Iconos
 | Icon | name 　　　　　　　　　　　　　　　　　　　　　　| SVG | White | Disabled | Default |
-| :-: | :- | :-: | :-: | :-: | :-: || ![icn_actualizar.svg](/icons/icn_actualizar.svg) | `actualizar` |  [.svg](/icons/icn_actualizar.svg) | ![icn_actualizar_white.svg](/icons/icn_actualizar_white.svg#gh-dark-mode-only) | ![icn_actualizar_disabled.svg](/icons/icn_actualizar_disabled.svg) | ![icn_actualizar_default.svg](/icons/icn_actualizar_default.svg) |
+| :-: | :- | :-: | :-: | :-: | :-: |
+| ![icn_actualizar.svg](/icons/icn_actualizar.svg) | `actualizar` |  [.svg](/icons/icn_actualizar.svg) | ![icn_actualizar_white.svg](/icons/icn_actualizar_white.svg#gh-dark-mode-only) | ![icn_actualizar_disabled.svg](/icons/icn_actualizar_disabled.svg) | ![icn_actualizar_default.svg](/icons/icn_actualizar_default.svg) |
 | ![icn_agujero.svg](/icons/icn_agujero.svg) | `agujero` |  [.svg](/icons/icn_agujero.svg) | ![icn_agujero_white.svg](/icons/icn_agujero_white.svg#gh-dark-mode-only) | ![icn_agujero_disabled.svg](/icons/icn_agujero_disabled.svg) | ![icn_agujero_default.svg](/icons/icn_agujero_default.svg) |
 | ![icn_anadirCapas.svg](/icons/icn_anadirCapas.svg) | `anadirCapas` |  [.svg](/icons/icn_anadirCapas.svg) | ![icn_anadirCapas_white.svg](/icons/icn_anadirCapas_white.svg#gh-dark-mode-only) | ![icn_anadirCapas_disabled.svg](/icons/icn_anadirCapas_disabled.svg) | ![icn_anadirCapas_default.svg](/icons/icn_anadirCapas_default.svg) |
 | ![icn_area.svg](/icons/icn_area.svg) | `area` |  [.svg](/icons/icn_area.svg) | ![icn_area_white.svg](/icons/icn_area_white.svg#gh-dark-mode-only) | ![icn_area_disabled.svg](/icons/icn_area_disabled.svg) | ![icn_area_default.svg](/icons/icn_area_default.svg) |
