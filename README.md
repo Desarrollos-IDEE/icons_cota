@@ -9,7 +9,7 @@ Todos los archivos siguen un patrón consistente:
 - **Versión deshabilitada**: `icn_nombre_disabled.svg` (ejemplo: `icn_actualizar_disabled.svg`)
 - **Versión default**: `icn_nombre_default.svg` (ejemplo: `icn_actualizar_default.svg`)
 
-La url de componente.idee es **solo la del icono principal**. Para el resto de versiones es necesario modificar la url siguiendo la nomenclatura    
+La url de componente.idee es **solo la del icono principal**. Para el resto de versiones es necesario modificar la url siguiendo la nomenclatura.  
 
 Todos los iconos están optimizados en formato SVG estándar (24x24px, viewBox 0 0 24 24).
 
@@ -153,7 +153,7 @@ El mejor camino para buscar en este repositorio es el motor de búsqueda de tu e
 |  ![icn_zoom_recuad.svg](/icons_cota/icn_zoom_recuad.svg)  |  `zoom_recuad`  |  ![icn_zoom_recuad_white.svg](/icons_cota/icn_zoom_recuad_white.svg)  |  ![icn_zoom_recuad_disabled.svg](/icons_cota/icn_zoom_recuad_disabled.svg)  |  ![icn_zoom_recuad_default.svg](/icons_cota/icn_zoom_recuad_default.svg)  | https://componentes.idee.es/estaticos/Simbologia/svg/icons_cota/icn_zoom_recuad.svg |
 |  ![icn_zoomMas.svg](/icons_cota/icn_zoomMas.svg)  |  `zoomMas`  |  ![icn_zoomMas_white.svg](/icons_cota/icn_zoomMas_white.svg)  |  ![icn_zoomMas_disabled.svg](/icons_cota/icn_zoomMas_disabled.svg)  |  ![icn_zoomMas_default.svg](/icons_cota/icn_zoomMas_default.svg)  | https://componentes.idee.es/estaticos/Simbologia/svg/icons_cota/icn_zoomMas.svg |
 |  ![icn_zoomMenos.svg](/icons_cota/icn_zoomMenos.svg)  |  `zoomMenos`  |  ![icn_zoomMenos_white.svg](/icons_cota/icn_zoomMenos_white.svg)  |  ![icn_zoomMenos_disabled.svg](/icons_cota/icn_zoomMenos_disabled.svg)  |  ![icn_zoomMenos_default.svg](/icons_cota/icn_zoomMenos_default.svg)  | https://componentes.idee.es/estaticos/Simbologia/svg/icons_cota/icn_zoomMenos.svg |
-|  ![pinterest.svg](/icons_cota/pinterest.svg)  |  `pinterest`  |  ![pinterest_white.svg](/icons_cota/pinterest_white.svg)  |  ![pinterest_disabled.svg](/icons_cota/pinterest_disabled.svg)  |  ![pinterest_default.svg](/icons_cota/pinterest_default.svg)  |
+|  ![pinterest.svg](/icons_cota/pinterest.svg)  |  `pinterest`  |  ![pinterest_white.svg](/icons_cota/pinterest_white.svg)  |  ![pinterest_disabled.svg](/icons_cota/pinterest_disabled.svg)  |  ![pinterest_default.svg](/icons_cota/pinterest_default.svg)  | https://componentes.idee.es/estaticos/Simbologia/svg/icons_cota/pinterest.svg |
 
 
 
