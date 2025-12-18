@@ -9,6 +9,8 @@ Todos los archivos siguen un patrón consistente:
 - **Versión deshabilitada**: `icn_nombre_disabled.svg` (ejemplo: `icn_actualizar_disabled.svg`)
 - **Versión default**: `icn_nombre_default.svg` (ejemplo: `icn_actualizar_default.svg`)
 
+La url de componente.idee es **solo la del icono principal**. Para el resto de versiones es necesario modificar la url siguiendo la nomenclatura    
+
 Todos los iconos están optimizados en formato SVG estándar (24x24px, viewBox 0 0 24 24).
 
 ### Versiones
