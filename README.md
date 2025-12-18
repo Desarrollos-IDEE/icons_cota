@@ -1,15 +1,15 @@
-### �Qu� es esto?
+### ¿Qué es esto?
 
-Este repositorio contiene todos los iconos que se usan en el sistema de dise�o Cota.
+Este repositorio contiene todos los iconos que se usan en el sistema de diseño Cota.
 
-### Nomenclatura de archivoss
-Todos los archivos siguen un patr�n consistente:
+### Nomenclatura de archivos
+Todos los archivos siguen un patrón consistente:
 - **Icono principal**: `icn_nombre.svg` (ejemplo: `icn_actualizar.svg`)
-- **Versi�n blanca**: `icn_nombre_white.svg` (ejemplo: `icn_actualizar_white.svg`)
-- **Versi�n deshabilitada**: `icn_nombre_disabled.svg` (ejemplo: `icn_actualizar_disabled.svg`)
-- **Versi�n default**: `icn_nombre_default.svg` (ejemplo: `icn_actualizar_default.svg`)
+- **Versión blanca**: `icn_nombre_white.svg` (ejemplo: `icn_actualizar_white.svg`)
+- **Versión deshabilitada**: `icn_nombre_disabled.svg` (ejemplo: `icn_actualizar_disabled.svg`)
+- **Versión default**: `icn_nombre_default.svg` (ejemplo: `icn_actualizar_default.svg`)
 
-Todos los iconos est�n optimizados en formato SVG est�ndar (24x24px, viewBox 0 0 24 24).
+Todos los iconos están optimizados en formato SVG estándar (24x24px, viewBox 0 0 24 24).
 
 ### Versiones
 Hay 4 versiones de cada icono para que puedan ser usados en cada estado:
@@ -19,13 +19,13 @@ Hay 4 versiones de cada icono para que puedan ser usados en cada estado:
 - **Default**: ![#495057](https://img.shields.io/badge/-495057?style=flat&logoColor=white) Gris 70 #495057 - Estados disponibles o neutros
 
 ### Buscar
-El mejor camino para buscar en este repositorio es el motor de b�squeda de tu explorador (cmd / ctrl + f)
+El mejor camino para buscar en este repositorio es el motor de búsqueda de tu explorador (cmd / ctrl + f)
 
 
 
 # Iconos
-| Icon | name                       | White | Disabled | Default | URL |
-| :-: | :- | :-: | :-: | :-: | :-: |
+| Icon | name                       | White | Disabled | Default | URL componentes.idee |
+| :-: | :- | :-: | :-: | :-: | :- |
 |  ![icn_actualizar.svg](/icons_cota/icn_actualizar.svg)  |  `actualizar`  |  ![icn_actualizar_white.svg](/icons_cota/icn_actualizar_white.svg)  |  ![icn_actualizar_disabled.svg](/icons_cota/icn_actualizar_disabled.svg)  |  ![icn_actualizar_default.svg](/icons_cota/icn_actualizar_default.svg)  | https://componentes.idee.es/estaticos/Simbologia/svg/icons_cota/icn_actualizar.svg |
 |  ![icn_agujero.svg](/icons_cota/icn_agujero.svg)  |  `agujero`  |  ![icn_agujero_white.svg](/icons_cota/icn_agujero_white.svg)  |  ![icn_agujero_disabled.svg](/icons_cota/icn_agujero_disabled.svg)  |  ![icn_agujero_default.svg](/icons_cota/icn_agujero_default.svg)  | https://componentes.idee.es/estaticos/Simbologia/svg/icons_cota/icn_agujero.svg |
 |  ![icn_anadirCapas.svg](/icons_cota/icn_anadirCapas.svg)  |  `anadirCapas`  |  ![icn_anadirCapas_white.svg](/icons_cota/icn_anadirCapas_white.svg)  |  ![icn_anadirCapas_disabled.svg](/icons_cota/icn_anadirCapas_disabled.svg)  |  ![icn_anadirCapas_default.svg](/icons_cota/icn_anadirCapas_default.svg)  | https://componentes.idee.es/estaticos/Simbologia/svg/icons_cota/icn_anadirCapas.svg |
