@@ -15,7 +15,7 @@ Todos los iconos están optimizados en formato SVG estándar (24x24px, viewBox 0
 
 ### Versiones
 Hay 4 versiones de cada icono para que puedan ser usados en cada estado:
-- **Black**: ![#000000](https://img.shields.io/badge/-000000?style=flat&logoColor=white) Negro #000000 - Icono principal
+- **currentColor**: ![#000000](https://img.shields.io/badge/-000000?style=flat&logoColor=white) Color heredado del css ( fill="currentColor") - Icono principal
 - **White**: ![#ffffff](https://img.shields.io/badge/-ffffff?style=flat&logoColor=black) Blanco #ffffff - Para fondos oscuros
 - **Disabled**: ![#ced4da](https://img.shields.io/badge/-ced4da?style=flat&logoColor=black) Gris 40 #ced4da - Estados deshabilitados o inactivos
 - **Default**: ![#495057](https://img.shields.io/badge/-495057?style=flat&logoColor=white) Gris 70 #495057 - Estados disponibles o neutros
