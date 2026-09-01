@@ -173,6 +173,7 @@ El mejor camino para buscar en este repositorio es el motor de búsqueda de tu e
 |  ![icn_zoomMas.svg](icons_cota/icn_zoomMas.svg)  |  `zoomMas`  |  ![icn_zoomMas_white.svg](icons_cota/icn_zoomMas_white.svg)  |  ![icn_zoomMas_disabled.svg](icons_cota/icn_zoomMas_disabled.svg)  |  ![icn_zoomMas_default.svg](icons_cota/icn_zoomMas_default.svg)  | https://componentes.idee.es/estaticos/Simbologia/svg/icons_cota/icn_zoomMas.svg |
 |  ![icn_zoomMenos.svg](icons_cota/icn_zoomMenos.svg)  |  `zoomMenos`  |  ![icn_zoomMenos_white.svg](icons_cota/icn_zoomMenos_white.svg)  |  ![icn_zoomMenos_disabled.svg](icons_cota/icn_zoomMenos_disabled.svg)  |  ![icn_zoomMenos_default.svg](icons_cota/icn_zoomMenos_default.svg)  | https://componentes.idee.es/estaticos/Simbologia/svg/icons_cota/icn_zoomMenos.svg |
 |  ![pinterest.svg](icons_cota/pinterest.svg)  |  `pinterest`  |  ![pinterest_white.svg](icons_cota/pinterest_white.svg)  |  ![pinterest_disabled.svg](icons_cota/pinterest_disabled.svg)  |  ![pinterest_default.svg](icons_cota/pinterest_default.svg)  | https://componentes.idee.es/estaticos/Simbologia/svg/icons_cota/pinterest.svg |
+|  ![stac](icons_cota/icn_stac.svg)  |  `stac`  |  ![icn_stac_white.svg](icons_cota/icn_stac_white.svg)  |  ![icn_stac_disabled.svg](icons_cota/icn_stac_disabled.svg)  |  ![icn_stac_default.svg](icons_cota/icn_stac_default.svg)  | https://componentes.idee.es/estaticos/Simbologia/svg/icons_cota/icn_stac.svg |
 
 
 
